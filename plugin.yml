@@ -1,0 +1,9 @@
+name: PhonexEffects
+author: Nacho
+version: 1.0
+main: me.nacho.effects.Main
+description: Plugin de efectos para phonex
+commands:
+  speed:
+  fireres:
+  invis:
